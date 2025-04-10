@@ -1,5 +1,3 @@
-![download (2)](https://github.com/user-attachments/assets/b80cad23-f542-46aa-bf67-8ebba554772c)
-![download (1)](https://github.com/user-attachments/assets/99f3209e-a435-40d2-9717-782693b924d4)
 ![download](https://github.com/user-attachments/assets/adeafb47-3fb0-4df7-98c8-b0d8280a6cd7)
 
 # 💫 About Me:
