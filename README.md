@@ -14,9 +14,6 @@ Student
 ![](https://nirzak-streak-stats.vercel.app/?user=16siddhanth&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=16siddhanth&icon=0&color=4)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16siddhanth/16siddhanth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/16siddhanth/16siddhanth/output/github-snake.svg" />
