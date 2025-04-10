@@ -1,3 +1,4 @@
+![download (2)](https://github.com/user-attachments/assets/b80cad23-f542-46aa-bf67-8ebba554772c)
 # 💫 About Me:
 Student
 
