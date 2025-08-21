@@ -1,7 +1,7 @@
 ![gif banner](https://github.com/user-attachments/assets/d60d23c3-44ef-470d-92b3-ce502151b293)
 
 # 💫 About Me:
-Student
+Student, software dev
 
 
 ## 🌐 Socials:
