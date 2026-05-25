@@ -13,20 +13,14 @@ Student, software dev
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/16siddhanth">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=16siddhanth&theme=midnight-purple&hide_border=true" alt="16siddhanth's Streak" />
-  </a>
+  <a href="https://github.com/16siddhanth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=16siddhanth&theme=midnight-purple&hide_border=true" alt="16siddhanth's Streak" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/16siddhanth">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Siddhanth's GitHub Stats" />
-  </a>
-  <a href="https://github.com/16siddhanth">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Siddhanth's Top Languages" />
-  </a>
+  <a href="https://github.com/16siddhanth"><img src="https://github-readme-stats-fast.vercel.app/api?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Siddhanth's GitHub Stats" /></a>
+  <a href="https://github.com/16siddhanth"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Siddhanth's Top Languages" /></a>
 </div>
 
 <picture>
