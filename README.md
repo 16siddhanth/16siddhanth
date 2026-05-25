@@ -12,7 +12,7 @@ Student, software dev
 # 📊 GitHub Stats:
 [![Siddhanth's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/16siddhanth)
 ![16siddhanth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=16siddhanth&theme=midnight-purple&hide_border=true)
-![16siddhanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+[![Siddhanth's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)](https://github.com/16siddhanth)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16siddhanth/16siddhanth/output/github-snake-dark.svg" />
