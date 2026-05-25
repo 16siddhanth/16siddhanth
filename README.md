@@ -19,7 +19,7 @@ Student, software dev
 <br>
 
 <div align="center">
-  <a href="https://github.com/16siddhanth"><img src="https://github-readme-stats-fast.vercel.app/api?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Siddhanth's GitHub Stats" /></a>
+  <a href="https://github.com/16siddhanth"><img src="https://github-readme-stats-fast.vercel.app/api?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="Siddhanth's GitHub Stats" /></a>
   <a href="https://github.com/16siddhanth"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=16siddhanth&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Siddhanth's Top Languages" /></a>
 </div>
 
